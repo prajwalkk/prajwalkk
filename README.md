@@ -4,8 +4,10 @@
 
 I am Prajwal Kishor Kammardi, a Master's student at the **University of Illinois** at Chicago and a *former* software engineer in **Mindtree Ltd.** I'm deeply interested in Cloud Computing, Functional Programming, Reactive Programming. In the past, I have worked for Hospitality Clients at Mindtree as a Performance and Automation Engineer on Cloud migration projects. Dosa connoiseur and gamer at free-time. 
 
-🔭 I’m currently working on a React project. 
+🔭 I’m currently working on a React project.
+
 🌱 I’m currently learning more about DevOps, experimenting with Jenkins X CI/CD and woud start Kubernetes shortly. Any ideas for some projects is appreciated.
+
 😄 Pronouns: he/him/his
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprajwalkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br />
